@@ -1,4 +1,4 @@
 baseURL = 'DEEPA-CHERI.github.io/Blog-posts'
 languageCode = 'en-us'
 title = 'Blogs'
-theme = 'PaperMod'
+    theme = 'PaperMod'
