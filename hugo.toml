@@ -2,3 +2,10 @@ baseURL = 'DEEPA-CHERI.github.io/Blog-posts'
 languageCode = 'en-us'
 title = 'Blogs'
     theme = 'PaperMod'
+[menu]
+    [[menu.main]]
+        identifier = 'posts'
+        name = "Posts"
+        title = "Posts"
+        url = "/posts/"
+        weight = 0
